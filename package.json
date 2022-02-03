@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start": "echo 'Edit the `start` command in package.json'",
+    "build": "echo 'Edit the `build` command in package.json'"
+  },
+  "dependencies": {
+  }
+}
