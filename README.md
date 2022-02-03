@@ -1,5 +1,5 @@
 ## Texas Advanced Computing Center
-# CMS UI Patterns (powered by ___)
+# CMS UI Patterns (powered by [PatternLab.io](https://patternlab.io))
 
 This repo builds UI patterns from Core-CMS stylesheets.
 
