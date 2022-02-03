@@ -1,7 +1,7 @@
 {
   "scripts": {
     "start": "npm run pl:serve",
-    "build": "echo 'Edit the `build` command in package.json'",
+    "build": "npm run pl:build",
     "pl:build": "patternlab build --config ./patternlab-config.json",
     "pl:help": "patternlab --help",
     "pl:install": "patternlab install --config ./patternlab-config.json",
